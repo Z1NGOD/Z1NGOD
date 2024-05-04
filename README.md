@@ -1,5 +1,7 @@
-<h1 align="center">Sup fellas 🤓 The name is the Yaroslav</h1>
+<h1 align="center">Sup fellas 🤓 <br/> The name is the Yaroslav</h1>
 <h3 align="center">And this is your another boring ass GitHub profile🤭</h3>
+<img align="right" src="https://www.gifcen.com/wp-content/uploads/2021/03/memes-gif-16.gif"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z1ngod" alt="z1ngod" /></a> </p>
 
