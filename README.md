@@ -1,9 +1,11 @@
 ![MasterHead](https://exploringbits.com/wp-content/uploads/2022/01/discord-banner-4.gif)
 # Yo fellas 🤝 <br/> The name is Yaroslav
-### And this is another of those boring ass profiles
+### And this is another of those boring ass profiles with a lot of emojis to deal with your attention span
 # 💫 About Me:
 - Typical dev who rewrites his code 2 million times because the bugs are going crazy baby 🤓
 - Doesn't like furry. You are not a wolf, you just have some daddy issues 🤷‍♂️
+- Doesn't have any social media besides Telegram and YouTube (yeah, I'm one of those) ☠️
+- I have a LinkedIn profile for the sake of having a LinkedIn profile 🤡
 - And if you know me, you know me 👍
 
 # 💻 Tech Stack:
